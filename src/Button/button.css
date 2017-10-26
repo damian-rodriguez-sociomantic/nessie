@@ -13,7 +13,7 @@
     cursor:             pointer;
     text-transform:     uppercase;
     border-radius:      0;
-    box-shadow:         0 0.1rem 0.2rem 0 var( --GS-5 );
+    box-shadow:         0 0.1rem 0.2rem 0 var( --GS-4 );
 }
 
 
